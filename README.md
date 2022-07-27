@@ -1,4 +1,4 @@
-# Aplikasi Pengadaan Barang<br/>
+# Aplikasi Pengadaan Perlengkapan<br/>
 ## Free Source Code<br/>
 
 ### Aplikasi ini dibuat menggunakan
